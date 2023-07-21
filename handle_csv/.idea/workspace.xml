@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be589ba1-be5e-4cb1-9536-eaf1a010b33d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="a6b3070f-ce93-435f-bfb9-bda4a1147987" />
+  <component name="ProjectId" id="24PDJq7qE7I6HIbFwXJRdpuIR2a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.csv_comb_fieldstdize">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="handle_csv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_comb_and_stdize_cf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="handle_csv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_comb_and_stdize_cf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="#test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="handle_csv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv_comb_fieldstdize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="handle_csv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../csv_comb_fieldstdize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="handle_csv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.csv_comb_fieldstdize" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python._comb_and_stdize_cf" />
+        <item itemvalue="Python.#test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be589ba1-be5e-4cb1-9536-eaf1a010b33d" name="Default Changelist" comment="" />
+      <created>1643523260051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643523260051</updated>
+      <workItem from="1643523281608" duration="102000" />
+      <workItem from="1643523433888" duration="9666000" />
+      <workItem from="1643593441289" duration="13168000" />
+      <workItem from="1643783722367" duration="10063000" />
+      <workItem from="1643847877626" duration="16640000" />
+      <workItem from="1644037163751" duration="937000" />
+      <workItem from="1644038321945" duration="3460000" />
+      <workItem from="1644297417853" duration="488000" />
+      <workItem from="1644561782623" duration="1052000" />
+      <workItem from="1644565658632" duration="38000" />
+      <workItem from="1644566324650" duration="30000" />
+      <workItem from="1644566937078" duration="48000" />
+      <workItem from="1644633823436" duration="297000" />
+      <workItem from="1644634174169" duration="7292000" />
+      <workItem from="1644652369611" duration="8251000" />
+      <workItem from="1644758572492" duration="5883000" />
+      <workItem from="1645325755455" duration="5742000" />
+      <workItem from="1645408943915" duration="147000" />
+      <workItem from="1645409476406" duration="315000" />
+      <workItem from="1646278999155" duration="564000" />
+      <workItem from="1646303115949" duration="339000" />
+      <workItem from="1646362954422" duration="125000" />
+      <workItem from="1646881340894" duration="368000" />
+      <workItem from="1646882999674" duration="15000" />
+      <workItem from="1646900032335" duration="984000" />
+      <workItem from="1646961146156" duration="1509000" />
+      <workItem from="1646963900369" duration="535000" />
+      <workItem from="1647161480675" duration="11995000" />
+      <workItem from="1647218277994" duration="2251000" />
+      <workItem from="1647222976318" duration="198000" />
+      <workItem from="1647236255886" duration="2572000" />
+      <workItem from="1647240971030" duration="936000" />
+      <workItem from="1647242013193" duration="1975000" />
+      <workItem from="1647245850798" duration="1844000" />
+      <workItem from="1647306519524" duration="6035000" />
+      <workItem from="1647345156846" duration="5522000" />
+      <workItem from="1647571080805" duration="740000" />
+      <workItem from="1647571861980" duration="7795000" />
+      <workItem from="1647588801154" duration="9059000" />
+      <workItem from="1647678478597" duration="5141000" />
+      <workItem from="1647684435597" duration="3177000" />
+      <workItem from="1647699813737" duration="2256000" />
+      <workItem from="1647745310231" duration="3847000" />
+      <workItem from="1647749659299" duration="63000" />
+      <workItem from="1647749724717" duration="2506000" />
+      <workItem from="1647759398937" duration="11350000" />
+      <workItem from="1647826435721" duration="269000" />
+      <workItem from="1647826758664" duration="2000" />
+      <workItem from="1647826768762" duration="21000" />
+      <workItem from="1647827081040" duration="211000" />
+      <workItem from="1647827821985" duration="550000" />
+      <workItem from="1647833245530" duration="88000" />
+      <workItem from="1647834030373" duration="12000" />
+      <workItem from="1647835275136" duration="127000" />
+      <workItem from="1647852875043" duration="518000" />
+      <workItem from="1648170580238" duration="31000" />
+      <workItem from="1648172149781" duration="612000" />
+      <workItem from="1648180555623" duration="75000" />
+      <workItem from="1648180768634" duration="22000" />
+      <workItem from="1648431410098" duration="798000" />
+      <workItem from="1648432336704" duration="2507000" />
+      <workItem from="1648437186645" duration="81000" />
+      <workItem from="1648539528661" duration="97000" />
+      <workItem from="1648604591995" duration="167000" />
+      <workItem from="1648604762832" duration="1954000" />
+      <workItem from="1648607710134" duration="2495000" />
+      <workItem from="1648612421613" duration="2279000" />
+      <workItem from="1648620918616" duration="595000" />
+      <workItem from="1648626692699" duration="100000" />
+      <workItem from="1648696992181" duration="229000" />
+      <workItem from="1648698415057" duration="467000" />
+      <workItem from="1648699070157" duration="6000" />
+      <workItem from="1648699154273" duration="744000" />
+      <workItem from="1648700108025" duration="139000" />
+      <workItem from="1648700393447" duration="13000" />
+      <workItem from="1648704005346" duration="777000" />
+      <workItem from="1648719387816" duration="37000" />
+      <workItem from="1648719679836" duration="79000" />
+      <workItem from="1649065522429" duration="7077000" />
+      <workItem from="1649142144620" duration="1546000" />
+      <workItem from="1649312707633" duration="598000" />
+      <workItem from="1649320320012" duration="2342000" />
+      <workItem from="1649380769315" duration="13174000" />
+      <workItem from="1649408687257" duration="300000" />
+      <workItem from="1649427631780" duration="6934000" />
+      <workItem from="1649489022175" duration="1520000" />
+      <workItem from="1649510496757" duration="3295000" />
+      <workItem from="1649554355000" duration="2927000" />
+      <workItem from="1649575174393" duration="4662000" />
+      <workItem from="1650274468294" duration="2953000" />
+      <workItem from="1650331724601" duration="1140000" />
+      <workItem from="1650335041635" duration="2378000" />
+      <workItem from="1650337612434" duration="1400000" />
+      <workItem from="1650349559390" duration="575000" />
+      <workItem from="1650359426027" duration="45000" />
+      <workItem from="1650359616675" duration="1178000" />
+      <workItem from="1650360944503" duration="931000" />
+      <workItem from="1650521796182" duration="589000" />
+      <workItem from="1650762851865" duration="108000" />
+      <workItem from="1650786682082" duration="288000" />
+      <workItem from="1650789234708" duration="151000" />
+      <workItem from="1650789441933" duration="2129000" />
+      <workItem from="1650793796436" duration="1322000" />
+      <workItem from="1650808049026" duration="146000" />
+      <workItem from="1650808290233" duration="288000" />
+      <workItem from="1650809212558" duration="102000" />
+      <workItem from="1650855489927" duration="71000" />
+      <workItem from="1650875241482" duration="74000" />
+      <workItem from="1650938845115" duration="103000" />
+      <workItem from="1651722358706" duration="197000" />
+      <workItem from="1652832634515" duration="288000" />
+      <workItem from="1652833276981" duration="147000" />
+      <workItem from="1653889518031" duration="427000" />
+      <workItem from="1654521040949" duration="1839000" />
+      <workItem from="1655286289747" duration="2267000" />
+      <workItem from="1655344608456" duration="1811000" />
+      <workItem from="1655351746886" duration="41000" />
+      <workItem from="1655351825504" duration="10000" />
+      <workItem from="1655357513959" duration="1506000" />
+      <workItem from="1655360133316" duration="354000" />
+      <workItem from="1655427521642" duration="153000" />
+      <workItem from="1655428949889" duration="19000" />
+      <workItem from="1655429034689" duration="117000" />
+      <workItem from="1655447793912" duration="20000" />
+      <workItem from="1656058133292" duration="31000" />
+      <workItem from="1656491607312" duration="314000" />
+      <workItem from="1656999354216" duration="6000" />
+      <workItem from="1656999974174" duration="733000" />
+      <workItem from="1657674465505" duration="150000" />
+      <workItem from="1657674622371" duration="461000" />
+      <workItem from="1657856307609" duration="4758000" />
+      <workItem from="1657867406236" duration="54000" />
+      <workItem from="1657947551903" duration="410000" />
+      <workItem from="1657948093145" duration="13000" />
+      <workItem from="1657958967583" duration="801000" />
+      <workItem from="1657960759213" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1655343973280">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1655343973280" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1655343973279">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1655343973279" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1655343973279">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1655343973279" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1655343973279">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1655343973279" />
+    <state width="1358" height="271" key="GridCell.Tab.1.bottom" timestamp="1655343973281">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1655343973281" />
+    <state width="1358" height="271" key="GridCell.Tab.1.center" timestamp="1655343973280">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1655343973280" />
+    <state width="1358" height="271" key="GridCell.Tab.1.left" timestamp="1655343973280">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1655343973280" />
+    <state width="1358" height="271" key="GridCell.Tab.1.right" timestamp="1655343973281">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1655343973281" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1649554433189">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.25.1440.875@0.25.1440.875" timestamp="1649554433189" />
+    <state x="365" y="211" width="670" height="676" key="search.everywhere.popup" timestamp="1649554414811">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="365" y="211" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1649554414811" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/handle_csv$handle_csv_combcsv.coverage" NAME="handle_csv_combcsv Coverage Results" MODIFIED="1646963145719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/handle_csv$_test.coverage" NAME="#test Coverage Results" MODIFIED="1647681844338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/handle_csv$_clean_comb_cashflow.coverage" NAME="#clean_comb_cashflow Coverage Results" MODIFIED="1647598257970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/handle_csv$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1649557744774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/handle_csv$test.coverage" NAME="test Coverage Results" MODIFIED="1649516226878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/handle_csv$_comb_and_stdize_cf.coverage" NAME="_comb_and_stdize_cf Coverage Results" MODIFIED="1648437254936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/handle_csv$csv_comb_fieldstdize.coverage" NAME="csv_comb_fieldstdize Coverage Results" MODIFIED="1655343958506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/handle_csv$NCinputform.coverage" NAME="NCinputform Coverage Results" MODIFIED="1644297503270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/handle_csv$handle_lklzd_csv.coverage" NAME="handle_lklzd_csv Coverage Results" MODIFIED="1647181777294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/handle_csv$main.coverage" NAME="main Coverage Results" MODIFIED="1647571919914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
